@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+langchain-community
+openai==1.12.0
+PyMuPDF==1.24.1
+streamlit-pdf-viewer==0.0.11
+faiss-cpu==1.8.0
+streamlit-chat==0.1.1
+streamlit==1.31.1
+tiktoken==0.6.0
+tokenizers==0.15.2
+streamlit-pdf-viewer==0.0.11
+streamlit-extras==0.4.2
+PyPDF2
